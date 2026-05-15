@@ -21,3 +21,5 @@ Currently working with Java, Spring Boot, React, and REST APIs while improving m
 - Spring Boot backend architecture
 - Building scalable REST APIs
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kai2-CbT)](https://github.com/ryo-ma/github-profile-trophy)
+
