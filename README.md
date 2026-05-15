@@ -22,6 +22,6 @@ Currently working with Java, Spring Boot, React, and REST APIs while improving m
 - Building scalable REST APIs
 
 ## GitHub Stats
-![Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kai2-CbT&show_icons=true)
+![Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kai2-CbT&show_icons=true&theme=transparent&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kai2-CbT&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kai2-CbT&layout=compact&theme=transparent&cache_seconds=86400)
