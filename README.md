@@ -7,6 +7,8 @@ Former Front-End Web Developer at TVOntario
 ## About Me
 I'm a software engineering student and full-stack developer focused on building scalable web applications and backend services.  
 
+Before transitioning into software development, I spent 4 years building and maintaining HTML-based front-end web pages at TVOntario. My background is in Kinesiology with a minor in Psychology, which helped develop my analytical thinking, communication, and problem-solving skills.
+
 Currently working with Java, Spring Boot, React, and REST APIs while improving my testing and software architecture skills.
 
 ## Tech Stack
@@ -20,6 +22,4 @@ Currently working with Java, Spring Boot, React, and REST APIs while improving m
 - Controller and service testing
 - Spring Boot backend architecture
 - Building scalable REST APIs
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kai2-CbT)](https://github.com/ryo-ma/github-profile-trophy)
 
