@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning Javascript, React, SpringBoot
+- 🔭 I’m currently working on Life
 <!--
 **Kai2-CbT/Kai2-CbT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
