@@ -9,17 +9,17 @@ I'm a software engineering student and full-stack developer focused on building 
 
 Currently working with Java, Spring Boot, React, and REST APIs while improving my testing and software architecture skills.
 
-## Currently Focused On
-- JavaScript, React, Java, and Spring Boot
-- REST APIs
-- Unit and Controller Testing
-- Full-Stack Development
-
 ## Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+## Currently Focused On
+- React, and Spring Boot
+- Controller and service testing
+- Spring Boot backend architecture
+- Building scalable REST APIs
 
 ## GitHub Stats
 ![Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kai2-CbT&show_icons=true)
