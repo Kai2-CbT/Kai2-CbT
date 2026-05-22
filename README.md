@@ -1,13 +1,13 @@
-# Kai 👨‍💻
+# Kai Tu
 
 Full-Stack Software Developer Intern at Ai Financial  
 Software Engineering Student at Centennial College  
-Former Front-End Web Developer at TVOntario  
+Former Front-End Web Developer at TVO 
 
 ## About Me
 I'm a software engineering student and full-stack developer focused on building scalable web applications and backend services.  
 
-Before transitioning into software development, I spent 4 years building and maintaining HTML-based front-end web pages at TVOntario. My background is in Kinesiology with a minor in Psychology, which helped develop my analytical thinking, communication, and problem-solving skills.
+Before fully transitioning into software development, I spent 4 years building and maintaining HTML-based front-end web pages at TVO. Prior to TVO, I studied Kinesiology with a minor in Psychology, which helped develop my analytical thinking, communication, and problem-solving skills.
 
 Currently, I’m working as a Full-Stack Software Developer Intern where I’m learning controller and unit testing, basic CI/CD practices, Git workflows, and backend development with Java and Spring Boot.
 
