@@ -19,6 +19,7 @@ Currently, I’m working as a Full-Stack Software Developer Intern where I’m l
 
 ## Currently Focused On
 - React, and Spring Boot
+- File migration and system redesign
 - Controller and service testing
 - Spring Boot backend architecture
 - Building scalable REST APIs
